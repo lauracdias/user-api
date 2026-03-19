@@ -1,4 +1,4 @@
-package com.lauradias.user_api;
+package com.lauradias.user_api.model;
 
 import jakarta.persistence.*;
 
